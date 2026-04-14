@@ -68,7 +68,7 @@ Archivo Excel con 3 hojas (`2012`, `2013`, `2014`) que contiene información adi
 │   ├── 02_distribucion_edad.png
 │   ├── 03_suscripcion_por_trabajo.png
 │   ├── 04_duracion_vs_suscripcion.png
-│   ├── 05_income_vs_web_visits.png
+│   ├── 05_distribucion_ingresos_suscripcion.png
 │   └── 06_heatmap_correlacion.png
 └── src
     └── eda_banco.py
